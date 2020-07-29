@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 😁
+
+My name is Danilo Ramalho from Brazil (🇧🇷). I've been working as FullStack Developer since 2007 and currently I'm System Analyst at [Imagem](https://www.img.com.br) and Founder of the startup [ProjectCanvas](https://www.projectcanvas.online)  I'm passionate about create software product to users, so I've created my startup and working in system development.
+
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), and I like to barbecue with a beer (🍺).
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilofeliperamalho/)](https://www.linkedin.com/in/danilofeliperamalho/)
 
 <!--
 **danilovex/danilovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
